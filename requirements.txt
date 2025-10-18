@@ -1,4 +1,4 @@
-langchain
+langchain 
 python-dotenv
 langchain-community
 langchain-text-splitters
